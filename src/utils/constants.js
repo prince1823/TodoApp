@@ -1,0 +1,1 @@
+export const COLOR_OPTIONS = ['Purple', 'Blue', 'Green', 'Orange', 'Red'];
